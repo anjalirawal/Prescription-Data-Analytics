@@ -1,0 +1,6 @@
+mem_drug_id,drug_ndc,drug_name,drug_form_code,drug_form_desc,drug_brand_generic_code,drug_brand_generic_desc
+1.00014E+13,433530848,Risperidone,TB,Tablet,1,Generic
+1.00025E+12,545695193,Amoxicillin,OS,Oral Solution,1,Generic
+1.00035E+13,545693828,Ambien,TB,Tablet,2,Brand
+1.00042E+12,185085302,Diprosone  ,TC,Topical Cream,1,Generic
+1.00015E+13,545693828,Ambien,TB,Tablet,2,Brand
